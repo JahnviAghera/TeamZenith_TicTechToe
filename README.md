@@ -1,3 +1,4 @@
+#Due GitHub's FTP constraints prevented us from uploading the email dispatch and PDF creation functionality but on deploymnet its stil accessible this document is for refrence and backup purposes only.
 # Personal Finance Web Application
 
 A comprehensive web application that helps users track spending, manage budgets, and gain insights into their financial habits.
